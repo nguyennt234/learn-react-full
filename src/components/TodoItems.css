@@ -1,0 +1,12 @@
+.TodoItems{
+    font-family: 'Helvetica', 'Arial', 'sans-serif';
+    font-weight: 300;
+    font-size: 35px;
+    color: #4d4d4d4d;
+    padding: 10px;
+}
+
+.TodoItems-Completed{
+    text-decoration: line-through;
+    opacity: .3;
+}
